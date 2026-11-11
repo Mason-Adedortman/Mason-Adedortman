@@ -1,58 +1,72 @@
-![Mason Ade Dortman — Mason Vision](banner.svg)
+<p align="center">
+  <img src="banner.svg" alt="Mason Ade Dortman — Computer Vision Engineer and Applied AI Developer at Mason Vision" width="100%" />
+</p>
 
-# Hi, I’m Mason Ade Dortman
+<h1 align="center">Hi, I’m Mason Ade Dortman 👋</h1>
+<p align="center"><strong>Computer Vision Engineer · Applied AI Developer<br>Founder &amp; Technical Director, Mason Vision</strong></p>
 
-**Computer Vision Engineer · Applied AI Developer · Founder & Technical Director, Mason Vision**
+<p align="center">
+  <a href="mailto:adedortman2020@gmail.com"><img src="assets/badges/contact.svg" alt="Email Mason" /></a>
+  <a href="https://github.com/Mason-Adedortman/mason-vision-portfolio"><img src="assets/badges/portfolio.svg" alt="Portfolio repository" /></a>
+  <a href="#-selected-work"><img src="assets/badges/projects.svg" alt="Explore project showcases" /></a>
+</p>
 
-I focus on practical computer vision and AI solutions: turning images and video into useful information, from detection and tracking to sports analytics, action recognition and temporal event analysis.
+<p align="center"><em>Turning images and video into useful, real-world intelligence.</em></p>
 
-[Explore the portfolio](https://github.com/Mason-Adedortman/mason-vision-portfolio) · [Get in touch](mailto:adedortman2020@gmail.com)
+---
 
-## What I focus on
+## 🧠 About me
 
-- **Sports intelligence:** movement, player interactions and events in match footage.
-- **Video understanding:** connecting observations across frames to actions and temporal events.
-- **Detection and tracking:** identifying objects, following movement and interpreting visual scenes.
-- **Applied AI:** connecting models, processing pipelines and usable outputs.
+I focus on practical **computer vision and applied AI**: object detection and tracking, sports analytics, video understanding, action recognition and temporal event analysis.
 
-## Selected project showcases
+Through **Mason Vision**, my focus is on connecting the technical approach with the problem it needs to solve—from understanding the footage and requirements to evaluation, documentation and delivery.
 
-### [Basketball AI Analysis](https://github.com/Mason-Adedortman/basketball-ai-analysis)
+- 🎯 **Focus:** useful outputs from complex visual data.
+- 🏀 **Interests:** sports intelligence, movement analysis and event detection.
+- 🤝 **Open to:** computer vision projects and long-term technical collaborations.
+- 📬 **Contact:** [adedortman2020@gmail.com](mailto:adedortman2020@gmail.com)
 
-Detection, tracking, tactical court views and structured video-analysis outputs.
+## 🛠️ Technical toolkit
 
-### [Tennis Analysis System](https://github.com/Mason-Adedortman/tennis-analysis-system)
+<p>
+  <img src="assets/badges/python.svg" alt="Python" />
+  <img src="assets/badges/opencv.svg" alt="OpenCV" />
+  <img src="assets/badges/pytorch.svg" alt="PyTorch" />
+</p>
+<p>
+  <img src="assets/badges/computer-vision.svg" alt="Computer vision" />
+  <img src="assets/badges/video-analysis.svg" alt="Video analysis" />
+  <img src="assets/badges/sports-analytics.svg" alt="Sports analytics" />
+</p>
 
-Player and ball tracking, court keypoints and a mini-court video demonstration.
+**Detection · Tracking · Segmentation · Deep learning · Action recognition · Temporal analysis**
 
-### [SimShieldAI](https://github.com/Mason-Adedortman/simshield-ai)
+Image and video processing, model development, evaluation and optimization, and end-to-end AI solution development.
 
-A camera-monitoring and detection-alert dashboard walkthrough.
+## 🚀 Selected work
 
-### [PDPODS](https://github.com/Mason-Adedortman/pdpods)
+Explore the problem, technical approach and available demonstration behind each project.
 
-License-plate records, camera context and organization management.
+<p>
+  <a href="https://github.com/Mason-Adedortman/basketball-ai-analysis"><img src="assets/projects/basketball-ai-analysis.svg" width="400" alt="Basketball AI Analysis — view the GitHub showcase" /></a>
+  <a href="https://github.com/Mason-Adedortman/tennis-analysis-system"><img src="assets/projects/tennis-analysis-system.svg" width="400" alt="Tennis Analysis System — view the GitHub showcase" /></a>
+  <a href="https://github.com/Mason-Adedortman/simshield-ai"><img src="assets/projects/simshield-ai.svg" width="400" alt="SimShieldAI — view the GitHub showcase" /></a>
+  <a href="https://github.com/Mason-Adedortman/pdpods"><img src="assets/projects/pdpods.svg" width="400" alt="PDPODS — view the GitHub showcase" /></a>
+  <a href="https://github.com/Mason-Adedortman/session-replay-analytics"><img src="assets/projects/session-replay-analytics.svg" width="400" alt="Session Replay Analytics — view the GitHub showcase" /></a>
+  <a href="https://github.com/Mason-Adedortman/mason-vision-portfolio"><img src="assets/projects/mason-vision-portfolio.svg" width="400" alt="Mason Vision Portfolio — view the GitHub showcase" /></a>
+</p>
 
-### [Session Replay Analytics](https://github.com/Mason-Adedortman/session-replay-analytics)
+*Project repositories are demo-backed case studies. Their documentation identifies scope, available evidence and original credits; application source releases are not included.*
 
-Browser interaction replay, funnels, heatmaps and session exploration.
+## ⚙️ How I approach a project
 
-These case studies present available project demonstrations and technical workflows. Each repository explains its scope, evidence and attribution; a showcase does not imply sole authorship or a runnable source release.
+**Understand the problem → Design the approach → Implement & evaluate → Document & deliver**
 
-## Technical toolkit
+I value clear requirements, reviewable outputs and evidence behind performance claims. A useful system should make its results understandable and its limitations clear.
 
-**Python · OpenCV · PyTorch · Computer Vision · Deep Learning**
+---
 
-Object detection, tracking and segmentation · Image and video processing · Sports analytics · Action recognition · Temporal analysis · Model evaluation and optimization · End-to-end AI solution development
-
-## Working approach
-
-Understand the problem and available data → define a practical technical approach → implement and evaluate → document and deliver.
-
-I value clear requirements, reviewable outputs, explicit project scope and evidence behind performance claims.
-
-## Let’s build something useful
-
-Open to computer vision projects, applied AI development and long-term technical collaborations.
-
-**Mason Vision** · [adedortman2020@gmail.com](mailto:adedortman2020@gmail.com)
+<h3 align="center">Have a computer vision problem to solve?</h3>
+<p align="center">Let’s talk about the footage, the challenge and what success looks like.</p>
+<p align="center"><a href="mailto:adedortman2020@gmail.com"><img src="assets/badges/contact.svg" alt="Start a conversation with Mason" /></a></p>
+<p align="center"><strong>Mason Vision</strong><br>Computer vision. Applied AI. Practical outcomes.</p>
